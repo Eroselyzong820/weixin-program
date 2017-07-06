@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+    <button bindtap="alertModel" class="btn">我想给你告白</button>
+  </view>
+</view>
